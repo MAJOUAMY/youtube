@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube/static/css/main.c47a23a1.css",
+    "main.js": "/youtube/static/js/main.27048885.js",
+    "index.html": "/youtube/index.html",
+    "main.c47a23a1.css.map": "/youtube/static/css/main.c47a23a1.css.map",
+    "main.27048885.js.map": "/youtube/static/js/main.27048885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c47a23a1.css",
+    "static/js/main.27048885.js"
+  ]
+}
